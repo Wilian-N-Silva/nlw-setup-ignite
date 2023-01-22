@@ -25,7 +25,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML, CSS e TailwindCSS
 - JavaScript e Typescript
 - NodeJS
 - React e React Native
