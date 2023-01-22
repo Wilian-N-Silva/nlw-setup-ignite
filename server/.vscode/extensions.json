@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "vivaxy.vscode-conventional-commits",
+    "GitHub.github-vscode-theme",
+    "Prisma.prisma"
+  ]
+}
